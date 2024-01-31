@@ -17,24 +17,39 @@ Effective Communication
 Trading crypto 
 
 Courses: 
+
 Introduction to Software Engineering 
+
 Object-Oriented Programming with C++\[Programming Language\] 
+
 Software Development Life Cycle (SDLC) 
+
 Database Web Development Technologies 
 
 Certificates: 
+
 0-level and A-Level(Cambridge International Examination) 
+
 Foundation(UTM) 
+
 Full-Stack Web Development 
+
 Round Square Conference Model United Nations 
 
 Awards: 
+
 Academic Excellence Award
+
 Swimming Champion in School 
+
 Best Striker in inter-school football match 
+
 Runner up in Physics Olympiad 
 
-Projects: Smart Home Automation System 
+Projects: 
+
+Smart Home Automation System 
+
 E-commerce Website Development
 
 * 🌍  I'm based in Kaula Lampur, Malaysia
