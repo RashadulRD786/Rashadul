@@ -7,9 +7,13 @@ Software Engineering Student
 Passionate UTM(MJIT) Student | Software Enthusiast | Multilingual Speaker As a dedicated student at UTM(MJIT), my academic journey revolves around the fascinating world of software engineering. Eager to explore innovative solutions and contribute to the tech industry, I bring a proactive mindset and a love for problem-solving. Proficient in three languages, I believe in effective communication as a cornerstone for successful collaboration. 
 
 Skills: 
+
 Software Development 
+
 Problem-Solving 
+
 Effective Communication 
+
 Trading crypto 
 
 Courses: 
