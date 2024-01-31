@@ -16,6 +16,7 @@ Effective Communication
 
 Trading crypto 
 
+
 Courses: 
 
 Introduction to Software Engineering 
@@ -25,6 +26,7 @@ Object-Oriented Programming with C++\[Programming Language\]
 Software Development Life Cycle (SDLC) 
 
 Database Web Development Technologies 
+
 
 Certificates: 
 
@@ -36,6 +38,7 @@ Full-Stack Web Development
 
 Round Square Conference Model United Nations 
 
+
 Awards: 
 
 Academic Excellence Award
@@ -45,6 +48,7 @@ Swimming Champion in School
 Best Striker in inter-school football match 
 
 Runner up in Physics Olympiad 
+
 
 Projects: 
 
