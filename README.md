@@ -21,7 +21,7 @@ Courses:
 
 Introduction to Software Engineering 
 
-Object-Oriented Programming with C++\[Programming Language\] 
+Object-Oriented Programming with C++ and Java. 
 
 Software Development Life Cycle (SDLC) 
 
@@ -34,9 +34,6 @@ Certificates:
 
 Foundation(UTM) 
 
-Full-Stack Web Development 
-
-Round Square Conference Model United Nations 
 
 
 Awards: 
@@ -60,7 +57,7 @@ E-commerce Website Development
 * ✉️  You can contact me at [nafisrashadul@gmail.com](mailto:nafisrashadul@gmail.com)
 * 🧠  I'm learning Software Devolpment
 * 🤝  I'm open to collaborating on innovative projects
-* ⚡  I 'm Alpha Male
+
 
 ### Skills
 
